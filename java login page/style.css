@@ -1,0 +1,67 @@
+.label {
+    font-size: larger;
+    font-family: cursive;
+    color: white;
+}
+
+.main {
+    /* background-color: aqua; */
+    margin-left: 750px;
+    margin-right: 750px;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+legend {
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: 700;
+    
+}
+
+#fieldset {
+    padding-bottom: 130px;
+    padding-top: 50px;
+    border-color: red;
+    border-width: 5px;
+    border-radius: 20px;
+}
+
+#login {
+    width: 177px;
+    /* padding-top: 8px; */
+    border-radius: 15px;
+    background-color: white;
+    font-family: cursive;
+    font-size: large;
+    background: none;
+    /* border-color:white; */
+    color: white;
+    
+
+}
+
+.input {
+    padding-top: 10px;
+    border-radius: 15px;
+    background:none;
+    border-color:gray;
+    padding-left: 50px;
+}
+.link{
+    font-size: small;
+    font-family: cursive;
+}
+img{
+    width: 15px;
+}
+.sign{
+    font-size: smaller;
+    opacity: 0.6;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-image: url(); */
+    
+}
